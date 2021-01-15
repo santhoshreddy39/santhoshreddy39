@@ -30,7 +30,7 @@ Currently I'm pursuing Master's course on **"Machine Learning & Deep Learning wi
 [![Linkedin: santhoshreddy39](https://img.shields.io/badge/-santhoshreddy39-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santhoshreddy39/)](https://www.linkedin.com/in/santhoshreddy39/)
 [![GitHub santhoshreddy39](https://img.shields.io/github/followers/santhoshreddy39?label=follow&style=social)](https://github.com/santhoshreddy39)
 
-**Languages and Tools:**  Python
+**Languages and Tools:**  Python   <br />
 **Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization.
  
 </a>
