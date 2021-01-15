@@ -24,7 +24,7 @@ Currently I'm pursuing Master's course on **"Machine Learning & Deep Learning wi
 - 💬 Ask me about Data Science or any tech related stuff
 - 📫 How to reach me:
 
-[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/telegram--v4.png"/>](https://t.me/Santhosh_39) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/skype--v1.png"/>](https://join.skype.com/invite/UPgtZxags9eh) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/santhoshreddy39/)
+[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/skype--v1.png"/>](https://join.skype.com/invite/UPgtZxags9eh) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/santhoshreddy39/)
 
 
 [![Linkedin: santhoshreddy39](https://img.shields.io/badge/-santhoshreddy39-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santhoshreddy39/)](https://www.linkedin.com/in/santhoshreddy39/)
