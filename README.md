@@ -1,9 +1,9 @@
 ### Hello, I'm Santhosh Reddy 👋
-Glad to see you here!
+**Glad to see you here!**
 
-I'm Mechanical Engineering graduate from IIT Madras of 2017 batch. I have 3.5 years of experience in the industry, in different domains like structural simulations, product qualificaction testing and data science.
+I'm Mechanical Engineering graduate from IIT Madras of 2017 batch with strong mathematical skills. I have 3.5 years of experience in the industry in different domains like structural simulations, product qualification testing and data analysis.
 
-Currently I'm pursuing Master's course on "Machine Learning & Deep Learning with Deployment" from Ineuron, Bangalore.
+Currently I'm pursuing Master's course on **"Machine Learning & Deep Learning with Deployment"** from Ineuron, Bangalore.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshreddy39&label=Views&color=blue&style=plastic" alt="santhoshreddy39" /> </p>
 
@@ -18,10 +18,10 @@ Currently I'm pursuing Master's course on "Machine Learning & Deep Learning with
 <br/>
 <br/>
 
-- 🌱 I’m currently learning more about Machine Learning & Deep Learning.
-- 👯 I’m looking to collaborate on Kaggle. 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning more about Machine Learning & Deep Learning
+- 👯 I’m looking to collaborate on Kaggle, Medium
+- 🤔 I’m looking for help with AI
+- 💬 Ask me about Data Science or any tech related stuff
 - 📫 How to reach me:
 
 [<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/919505844082) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/skype--v1.png"/>](https://join.skype.com/invite/UPgtZxags9eh) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/santhoshreddy39/)
@@ -31,7 +31,7 @@ Currently I'm pursuing Master's course on "Machine Learning & Deep Learning with
 [![GitHub santhoshreddy39](https://img.shields.io/github/followers/santhoshreddy39?label=follow&style=social)](https://github.com/santhoshreddy39)
 
 **Languages and Tools:**  Python
-- Data Analysis: Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization.
+**Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization.
  
 </a>
 <a href="https://github.com/santhoshreddy39">
