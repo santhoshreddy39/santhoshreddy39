@@ -1,9 +1,17 @@
 ### Hello, I'm Santhosh Reddy 👋
 **Glad to see you here!**
 
-I'm Mechanical Engineering graduate from IIT Madras of 2017 batch with strong mathematical skills. I have 3.5 years of experience in the industry in different domains like structural simulations, product qualification testing and data analysis.
+A data science enthusiast with 3.5 years of experience in the field of Mechanical and Data Science domain.
 
-Currently I'm pursuing Master's course on **"Machine Learning & Deep Learning with Deployment"** from Ineuron, Bangalore.
+Skilled in Statistical Data Analysis, Data Visualization, and Data Analysis with the implementation of Machine Learning algorithms using Python.
+
+Strong engineering professional with a Master's Degree from Indian Institute of Technology, Madras.
+
+I am passionate about learning new technologies like Machine Learning, Predictive Modelling to solve challenging business problems.
+
+• Implemented Analytics solutions in the Mechanical and Banking domain.
+
+• Significant experience with Scikit-Learn, Scipy, Numpy, Pandas, Exploratory Data Analysis.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshreddy39&label=Views&color=blue&style=plastic" alt="santhoshreddy39" /> </p>
 
