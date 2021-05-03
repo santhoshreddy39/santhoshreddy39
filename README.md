@@ -13,6 +13,10 @@ I am passionate about learning new technologies like Machine Learning, Deep Lear
 
 • Significant experience with Scikit-Learn, Scipy, Numpy, Pandas, Exploratory Data Analysis.
 
+In the past, I have worked with Lennox India Technology Centre as Associate Analyst.
+
+Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshreddy39&label=Views&color=blue&style=plastic" alt="santhoshreddy39" /> </p>
 
 </a>
