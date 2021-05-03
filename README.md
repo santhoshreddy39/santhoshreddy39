@@ -1,6 +1,7 @@
 ### Hello, I'm Santhosh Reddy 👋
 **Glad to see you here!**
 
+
 A data science enthusiast with 3.5 years of experience in the field of Mechanical and Data Science domain.
 
 Skilled in Statistical Data Analysis, Data Visualization, and Data Analysis with the implementation of Machine Learning algorithms using Python.
@@ -8,6 +9,8 @@ Skilled in Statistical Data Analysis, Data Visualization, and Data Analysis with
 Strong engineering professional with a Master's Degree from Indian Institute of Technology, Madras.
 
 I am passionate about learning new technologies like Machine Learning, Deep Learning, Predictive Modelling to solve challenging business problems.
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 • Implemented Analytics solutions in the Mechanical and Banking domain.
 
@@ -30,7 +33,7 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 <br/>
 <br/>
 
-- 🌱 I’m currently learning more about Machine Learning & Deep Learning
+- 🌱 I’m currently learning more about Machine Learning & Deep Learning        
 - 👯 I’m looking to collaborate on Kaggle, Medium
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about Data Science or any tech related stuff
