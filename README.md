@@ -7,7 +7,7 @@ Skilled in Statistical Data Analysis, Data Visualization, and Data Analysis with
 
 Strong engineering professional with a Master's Degree from Indian Institute of Technology, Madras.
 
-I am passionate about learning new technologies like Machine Learning, Predictive Modelling to solve challenging business problems.
+I am passionate about learning new technologies like Machine Learning, Deep Learning, Predictive Modelling to solve challenging business problems.
 
 • Implemented Analytics solutions in the Mechanical and Banking domain.
 
