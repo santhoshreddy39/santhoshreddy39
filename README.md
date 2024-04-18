@@ -2,7 +2,7 @@
 **Glad to see you here!**
 
 
-A data science enthusiast with 5.5 years of experience in the field of Mechanical and Data Science domain.
+A data science enthusiast with 6.5 years of experience in the field of Mechanical and Data Science domain.
 
 Skilled in Statistical Data Analysis, Data Visualization, and Data Analysis with the implementation of Machine Learning algorithms using Python.
 
